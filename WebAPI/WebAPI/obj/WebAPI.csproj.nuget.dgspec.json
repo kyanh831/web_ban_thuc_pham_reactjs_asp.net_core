@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoang\\OneDrive\\Máy tính\\DoAn_ChuyenNganh\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\hoang\\OneDrive\\Máy tính\\web_ban_thuc_pham_reactjs_asp.net_core\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoang\\OneDrive\\Máy tính\\DoAn_ChuyenNganh\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\hoang\\OneDrive\\Máy tính\\web_ban_thuc_pham_reactjs_asp.net_core\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DoAn_ChuyenNganh\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Máy tính\\web_ban_thuc_pham_reactjs_asp.net_core\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DoAn_ChuyenNganh\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\web_ban_thuc_pham_reactjs_asp.net_core\\WebAPI\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DoAn_ChuyenNganh\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\web_ban_thuc_pham_reactjs_asp.net_core\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.113\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.115\\RuntimeIdentifierGraph.json"
         }
       }
     }

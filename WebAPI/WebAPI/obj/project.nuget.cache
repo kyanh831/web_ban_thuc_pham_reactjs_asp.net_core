@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TKD4+W0mdlxTD3ItKS2ZrXbkFHltF0xoH097SfHZWuN5MG61Ual8v++xnzeNMbNt5TwXh5lyxJmUZYLtGbVyWg==",
+  "dgSpecHash": "AcJkIsrcfYItsb0QNHmPR6gFA/DSBpPTXQR76mv7e/jrebya6Uej/HCTdhK7uSO+DcHo5A/oPTZSA158OQmuaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\DoAn_ChuyenNganh\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\hoang\\OneDrive\\Máy tính\\web_ban_thuc_pham_reactjs_asp.net_core\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hoang\\.nuget\\packages\\cloudinarydotnet\\1.20.0\\cloudinarydotnet.1.20.0.nupkg.sha512",
     "C:\\Users\\hoang\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
